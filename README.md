@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @ramanlameika
-- 👀 This is a opensource nondegree degree lol, where you without any college or university can have knowledge in Infosec, Computer science, Python, Phylosophy, Grappling etc, etc Very Very Flexible knowledge.
--And rememver: "Never Late To Learn..." 
-- 📫 How to reach me infosecjj3301@gmail.com or here ...
+- 👋Hi, I’m Raman Lameika! 👋
 
-<!---
-ramanlameika/ramanlameika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my open-source journey, where the boundaries of learning are defined only by curiosity and determination. 🚀
+🌟 About Me
 
+I'm passionate about acquiring knowledge without the constraints of formal degrees—embracing a "nondegree degree" philosophy. Whether it's Infosec, Computer Science, Python, Philosophy, or Grappling, I'm continuously exploring new domains with enthusiasm and flexibility.
+
+My mantra?
+"Never Too Late to Learn."
+💡 What I’m Exploring
+
+    Infosec: Delving deep into the world of cybersecurity and ethical hacking.
+    Python: Building tools, solving problems, and scripting my way through challenges.
+    Philosophy: Understanding the "why" behind the "what."
+    Grappling: Sharpening the mind and body through the art of combat.
+    And so much more!
+
+📫 How to Reach Me
+
+Feel free to connect:
+
+    Email: infosecjj3301@gmail.com
+    GitHub: Right here!
+
+🚀 Let's Build Together
+
+I’m always open to collaboration, sharing knowledge, and contributing to exciting projects. If you have an idea or just want to discuss tech, philosophy, or anything in between, don’t hesitate to reach out!
 
