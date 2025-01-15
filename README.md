@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ramanlameika
-- 👀 I’m interested in learning and developping skills in Cybersecurity and Ethical Hacking. 
-- 🌱 I’m currently learning Cybersecurity & Ethical hacking(Kali Linux, all programs on Kali Metasploit, Pen testing, atacks etc.etc.), Python, Chatbots, Linux(command line & system) etc.etc.etc... 
-- 💞️ I’m looking to collaborate on projecs related to all stuff mentioned up.
+- 👀 This is a opensource nondegree degree lol, where you without any college or university can have knowledge in Infosec, Computer science, Python, Phylosophy, Grappling etc, etc Very Very Flexible knowledge.
+-And rememver: "Never Late To Learn..." 
 - 📫 How to reach me infosecjj3301@gmail.com or here ...
 
 <!---
